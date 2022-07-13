@@ -94,6 +94,7 @@ A las computadoras y la programación presenten. Podemos traer información requ
 
 Es mu importante familiarizarse con los terminos para un rapido y eficienye manejo de la computadora, aplicaciones y distintos lenguajes asi temnemos de forma rapida los siguientes
 hardware y software-Unidad central de proceso-Memoria principal-Memoria auxiliar.
+<img align="center" src="img/Termi.png" width="500" ></img>
 
 ## Desarrollo del programa y Código fuente
 
